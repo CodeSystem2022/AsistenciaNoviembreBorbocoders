@@ -1,7 +1,7 @@
 # Los Borbocoders Noviembre</h1>
 
 
-![made-with-python](https://user-images.githubusercontent.com/95186593/198899823-c6ad6d29-9f86-4d50-bffd-c7ea473cf052.svg)
+![made-with-java](https://user-images.githubusercontent.com/95186593/198899823-c6ad6d29-9f86-4d50-bffd-c7ea473cf052.svg)
 
 ### *Integrantes:*
 
